@@ -1,10 +1,16 @@
 <div align="center">
 
-# How to Publish in Q1 Journals and Top-Tier Conferences
+<img src="img.png"
+     alt="How to Publish in Q1 Journals and Top-Tier Conferences"
+     width="100%">
 
 ### A Practical Three-Day Workshop on Research and Academic Publishing
 
 This repository contains the slides, templates, worksheets, and practical activities used in the workshop.
+
+![Workshop](https://img.shields.io/badge/Workshop-3%20Days-0B4F7A)
+![Research](https://img.shields.io/badge/Focus-Academic%20Research-4F46E5)
+![Publishing](https://img.shields.io/badge/Goal-Q1%20Journals-15803D)
 
 </div>
 
@@ -40,7 +46,8 @@ The workshop combines theoretical explanations, practical examples, structured t
 ### Slides
 
 - [Day 1 Slides](./Day_1.pdf)
-- More workshop slides will be added soon.
+- [Day 2 Slides](./Day_2.pdf)
+- Day 3 slides will be added soon.
 
 ### Templates and Activities
 
@@ -104,27 +111,12 @@ By the end of the workshop, participants should be able to:
 ## How to Use This Repository
 
 1. Download or clone the repository.
-2. Open the workshop slides for each day.
+2. Open the slides for the relevant workshop day.
 3. Complete the provided worksheets and activities.
 4. Use the templates to organize your literature review and experiments.
-5. Check the repository regularly for new materials.
+5. Check the repository regularly for additional materials.
 
-To clone the repository:
+Clone the repository using:
 
 ```bash
-git clone https://github.com/LamaAy/How-to-Publish-in-Q1-Journals-and-Top-Tier-Conferences.git
-```
-
----
-
-## Repository Updates
-
-Additional slides, examples, templates, and activities will be added throughout the workshop.
-
----
-
-<div align="center">
-
-### Research with clarity. Experiment with rigor. Publish with impact.
-
-</div>
+git clone https://github.com/LamaAy/How-to-Publish-in-Q1-Journals-and-Top-Tier-Conferences-.git
